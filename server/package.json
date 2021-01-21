@@ -1,0 +1,23 @@
+{
+  "name": "currency-rate",
+  "version": "1.0.0",
+  "description": "A currence rate API",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "currency",
+    "rate"
+  ],
+  "author": "Ikechukwu Peter",
+  "license": "MIT"
+}
